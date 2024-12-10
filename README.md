@@ -1,1 +1,1 @@
-# appProva
+Aplicativo para testes com React Navigation
